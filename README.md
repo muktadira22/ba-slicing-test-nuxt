@@ -1,6 +1,10 @@
-# Nuxt 3 Minimal Starter
+# BA Slicing Test
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Created By Muhammad Aria Muktadir using Nuxt and Tailwind
+
+Look at the 
+- [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more about Nuxt.
+- [Tailwind documentation](https://tailwindcss.com/docs/installation) to learn more about Tailwind.
 
 ## Setup
 
