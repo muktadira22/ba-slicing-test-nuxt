@@ -10,11 +10,8 @@
 
     <div class="lg:pl-24">
       <Header />
-
-      <main class="py-10">
-        <div class="px-4 sm:px-6 lg:px-8">
-          <!-- Your content -->
-        </div>
+      <main>
+        <slot />
       </main>
     </div>
   </div>

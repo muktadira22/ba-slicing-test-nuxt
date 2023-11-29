@@ -1,6 +1,6 @@
 <template>
   <div>
-    <nav class="bg-white shadow">
+    <nav class="bg-white border-b">
       <div class="mx-auto">
         <div class="flex h-16 px-5">
           <div class="flex">
@@ -63,5 +63,10 @@
         </div>
       </div>
     </nav>
+
+    <!-- For navigation -->
+    <div class="bg-white border-b px-5 py-2 text-sm h-10 flex items-center">
+      <span class="text-gray-600">Budget</span>&nbsp;/&nbsp;<span class="font-semibold">FY21 - Recommended Operating Budget</span>
+    </div>
   </div>
 </template>

@@ -1,5 +1,5 @@
 <template>
-  <div class="flex grow flex-col overflow-y-auto bg-white border-r-2 px-6 pb-4">
+  <div class="flex grow flex-col overflow-y-auto bg-white border-r px-6 pb-4">
     <div class="flex h-16 shrink-0 items-center justify-items-center">
       <img
         class="h-8 w-auto"
